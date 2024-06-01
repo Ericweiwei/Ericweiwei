@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ericweiwei
-- 👀 I’m interested in MODFLOW 6 MODEL creation
+- 👀 I’m interested in MODFLOW 6 model creation
 - 🌱 I’m currently learning python & matlab
 - 💞️ I’m looking to collaborate on numerical modelling
 - 📫 How to reach me cwkuo0728@gmail.com
